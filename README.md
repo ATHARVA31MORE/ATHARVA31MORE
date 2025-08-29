@@ -9,13 +9,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/aditya-gupta-ab2220310/" target="blank">
+  <a href="https://www.linkedin.com/in/atharva-more-606483373/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-gupta" height="30" width="40" />
   </a>
-  <a href="https://github.com/Ad1ty-Gupta23" target="blank">
+  <a href="https://github.com/ATHARVA31MORE" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/Ad1tya_Gupta/" target="blank">
+  <a href="https://leetcode.com/u/nusDzTpGzP/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="40" />
   </a>
 </p>
